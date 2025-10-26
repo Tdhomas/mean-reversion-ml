@@ -8,14 +8,23 @@ __pycache__/
 .venv/
 venv/
 
-# Data and generated outputs
-data/
-models/
-plots/
-plots_interactive/
+# Data (ignore everything inside, allow .gitkeep and the universe CSV)
+data/*
+!data/.gitkeep
+!data/trading_stocks_1.csv
 
-# Parameter files (can be regenerated)
-params/
+# Models (usually big binaries)
+models/*
+!models/.gitkeep
+
+# Params (ignore binaries, allow JSON config if you want it tracked)
+params/*
+!params/.gitkeep
+!params/best_parameters.json
+
+# Plots
+plots/*
+!plots/.gitkeep
 
 # Logs and system files
 *.log
@@ -29,5 +38,5 @@ Thumbs.db
 .vscode/
 .idea/
 
-# Environment variables (security)
+# Environment variables
 .env
