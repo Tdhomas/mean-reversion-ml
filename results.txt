@@ -1,0 +1,19 @@
+Total Return: 26.23%
+Annualized Return: 49.73%
+Annualized Volatility: 19.53%
+Sharpe Ratio: 2.32
+Sortino Ratio: 3.51
+Maximum Drawdown: -13.93%
+Total Trades: 139
+Winning Trades: 83
+Losing Trades: 56
+Win Rate: 59.71%
+Average Win: $23.40
+Average Loss: $-16.16
+Average Trade Duration: 7.99 days
+Trades per Day: 2.96
+Best Trade Profit: $183.40 (LNW)
+Worst Trade Loss: $-113.00 (XPO)
+Most Profitable Stock: BPMC with Profit $205.60
+Stock with Most Loss: MAS with Loss $-73.80
+Backtest completed. Final Portfolio Value: $126230.72

@@ -1,0 +1,33 @@
+# Python bytecode and cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+.venv/
+venv/
+
+# Data and generated outputs
+data/
+models/
+plots/
+plots_interactive/
+
+# Parameter files (can be regenerated)
+params/
+
+# Logs and system files
+*.log
+Thumbs.db
+.DS_Store
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# IDE/editor settings
+.vscode/
+.idea/
+
+# Environment variables (security)
+.env
