@@ -6,17 +6,28 @@ This project implements a machine-learning based **mean-reversion trading strate
 
 ## 📁 Project Structure
 
-mean-reversion/
+mean-reversion-ml/
+
 ├─ data/                      # Price data, datasets, signals, backtests (auto-generated)
+
 ├─ models/                    # Trained model + encoders
+
 ├─ params/                    # Per-stock indicator settings and tuned hyperparameters
+
 ├─ plots/                     # Static and interactive chart outputs
+
 ├─ data_preparation.py        # All python scripts
+
 ├─ model_training.py
+
 ├─ signal_generation.py
+
 ├─ backtesting.py
+
 ├─ trade_analysis.py
+
 ├─ visualize_signals.py
+
 └─ live_signal_generation.py
 
 ---
